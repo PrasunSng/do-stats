@@ -1,2 +1,3 @@
 # do-stats
-Some thoughts on Statistics
+Some random thoughts on Statistics to get started !
+Concept of distributions
